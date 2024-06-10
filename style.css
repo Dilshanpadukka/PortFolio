@@ -32,3 +32,13 @@
 .card{
     width: 18rem;
 }
+.btn{
+  background-color: #ffd500;
+  color: black;
+  letter-spacing: 0.2px;
+  font-weight: bold;
+  padding: 6px 36px 10px 36px;
+}
+.nav{
+  background-color: black;
+}
